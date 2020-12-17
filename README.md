@@ -1,4 +1,4 @@
-# VBA-Stock-Ticker
+# VBA-Challenge_Stock-Ticker
 Homework 2 for VBA
 ================
 ReadMe File
