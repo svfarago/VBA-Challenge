@@ -28,9 +28,11 @@ Run button
 
 
 == List of Files ====================
-Multiple_year_stock_data.xlsx
-Module1_SVF.bas
-
+Multiple_year_stock_data.xlsx < not included but required to run VBA
+Module1_SVF_FINAL1.bas
+VBA Stock Results 2014.PNG
+VBA Stock Results 2015.PNG
+VBA Stock Results 2016.PNG
 
 == Known Bugs =====================
 None
